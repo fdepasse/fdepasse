@@ -1,6 +1,6 @@
-# <p align="center">Hi there, I am Fabien, a Junior Developer 👋</p>
+###Hi there, I am Fabien, a Junior Developer 👋
 
-* 🔭  I’m **passionate** about learning, solving problems, getting creative and build cool web applications
+* <span>🔭</span> I’m **passionate** about learning, solving problems, getting creative and build cool web applications
 
 * 📖  In March 2021. I have completed a 12 weeks **Software Engineering Course** with General Assembly
 
