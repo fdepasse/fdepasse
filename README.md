@@ -10,8 +10,9 @@
 
 - I've **lived in the UK** for nearly 10 years, I'm originally from **France**
 
-- In my **spare time** I love playing football, running, travelling, cooking and drive a F1 car (on PlayStation only)
+- In my **spare time** I love playing football, running, travelling, cooking and drive a F1 car (on PlayStation only!)
 
+<br/>
 
 #### How to reach me:
 
@@ -20,8 +21,9 @@
 * Portfolio Website: [fabien-depasse.com](http://www.fabien-depasse.com)
 * GitHub: [github.com/fdepasse](https://github.com/fdepasse)
 
+<br/>
 
-#### Check out the projects I have built during my course and please let me know your thoughts! They are accessible here:
+#### Check out my projects and please let me know your thoughts!
 
 - 🎮 [Pac-Man Thriller](https://github.com/fdepasse/pacman-thriller), a grid based game inspired by Pac-Man, themed after Michael Jackson's Thriller
 - 🧪 [The Breaking Bad Project](https://github.com/fdepasse/the-breaking-bad-project), a front end app celebrating the Breaking Bad series
