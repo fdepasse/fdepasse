@@ -25,7 +25,7 @@
 
 #### Check out my projects and please let me know your thoughts!
 
-- 🎮 [Pac-Man Thriller](https://github.com/fdepasse/pacman-thriller), a grid based game inspired by Pac-Man, themed after Michael Jackson's Thriller
-- 🧪 [The Breaking Bad Project](https://github.com/fdepasse/the-breaking-bad-project), a front end app celebrating the Breaking Bad series
-- 👨‍🍳 [Hack A Snack](https://github.com/fdepasse/hack-a-snack), a full stack app to find, share and review recipes
-- 🎵 [Dreamland Festival](https://github.com/fdepasse/dreamland-festival), a full stack mobile first app looking after the attendees of a fictional festival
+- [Pac-Man Thriller](https://github.com/fdepasse/pacman-thriller) 🎮, a grid based game inspired by Pac-Man, themed after Michael Jackson's Thriller
+- [The Breaking Bad Project](https://github.com/fdepasse/the-breaking-bad-project) 🧪, a front end app celebrating the Breaking Bad series
+- [Hack A Snack](https://github.com/fdepasse/hack-a-snack) 👨‍🍳 , a full stack app to find, share and review recipes
+- [Dreamland Festival](https://github.com/fdepasse/dreamland-festival) 🎵 , a full stack mobile first app looking after the attendees of a fictional festival
