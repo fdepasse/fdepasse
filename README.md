@@ -13,7 +13,6 @@
 * Email: [depasse.fabien@gmail.com](mailto:depasse.fabien@gmail.com)
 * LinkedIn: [in/depassefabien](http://www.linkedin.com/in/depassefabien)
 * Portfolio Website: [fabien-depasse.com](http://www.fabien-depasse.com)
-* GitHub: [github.com/fdepasse](https://github.com/fdepasse)
 
 #### Check out my projects and please let me know your thoughts!
 
