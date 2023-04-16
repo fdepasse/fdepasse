@@ -2,7 +2,7 @@
 
 #### About me:
 
-* I’m **passionate** about learning, solving problems, getting creative and building cool applications
+* I am **passionate** about learning, solving problems, getting creative and building cool applications
 * I currently work for [Blink](https://joinblink.com/) the World's Best Frontline App as a **Full Stack Developer**
 * In March 2021. I have completed a 12 weeks **Software Engineering Course** with General Assembly
 * I **changed career**, I used to be a Business Analyst for a large corporation
